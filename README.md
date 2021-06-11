@@ -1,8 +1,10 @@
 # 2020 NCTU Parallel Programming
-## Final Project - Comwey's 
-* HW1	SIMD  
-* HW2	Muti-thread  
-* HW3	OpenMP  
-* HW4	MPI  
-* HW5	CUDA  
-* HW6	OpenCL   
+## Final Project
+Conway's Game of Life
+## Project List
+1. SIMD
+2. Muti-thread  
+3. OpenMP  
+4. MPI  
+5. CUDA  
+6. OpenCL   
